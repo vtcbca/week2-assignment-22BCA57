@@ -1,5 +1,5 @@
 NOTE ::
-First we need to write (pragma foreign_key = on)
+First we need to write (pragma foreign_key = ON)
 
 create table stud
 (
